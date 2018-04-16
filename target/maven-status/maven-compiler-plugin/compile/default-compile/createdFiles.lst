@@ -1,0 +1,10 @@
+com/example/configuration/WebMvcConfig.class
+com/example/service/AccountService.class
+com/example/configuration/SecurityConfiguration.class
+com/example/repository/UserRepository.class
+com/example/controller/LoginController.class
+com/example/DemoApplication.class
+com/example/service/AccountServiceImpl.class
+com/example/model/Account.class
+com/example/model/Role.class
+com/example/repository/RoleRepository.class

@@ -1,0 +1,10 @@
+/Users/isaacperalez/Desktop/Spring/SpringSecurityLoginTutorial/src/main/java/com/example/controller/LoginController.java
+/Users/isaacperalez/Desktop/Spring/SpringSecurityLoginTutorial/src/main/java/com/example/configuration/WebMvcConfig.java
+/Users/isaacperalez/Desktop/Spring/SpringSecurityLoginTutorial/src/main/java/com/example/repository/UserRepository.java
+/Users/isaacperalez/Desktop/Spring/SpringSecurityLoginTutorial/src/main/java/com/example/DemoApplication.java
+/Users/isaacperalez/Desktop/Spring/SpringSecurityLoginTutorial/src/main/java/com/example/repository/RoleRepository.java
+/Users/isaacperalez/Desktop/Spring/SpringSecurityLoginTutorial/src/main/java/com/example/service/AccountServiceImpl.java
+/Users/isaacperalez/Desktop/Spring/SpringSecurityLoginTutorial/src/main/java/com/example/configuration/SecurityConfiguration.java
+/Users/isaacperalez/Desktop/Spring/SpringSecurityLoginTutorial/src/main/java/com/example/model/Role.java
+/Users/isaacperalez/Desktop/Spring/SpringSecurityLoginTutorial/src/main/java/com/example/model/Account.java
+/Users/isaacperalez/Desktop/Spring/SpringSecurityLoginTutorial/src/main/java/com/example/service/AccountService.java
